@@ -1,0 +1,21 @@
+@import '~antd/dist/antd.css';
+.head h1 a {
+  color: white;
+  font-size: 3rem;
+  font-weight: bold;
+}
+
+
+.head h2 {
+  color: white;
+  font-size: 1.3rem;
+  font-weight: 600;
+
+}
+
+.head h2:hover{
+  color: yellow;
+  transform: scale(1.2);
+  cursor: pointer
+}
+

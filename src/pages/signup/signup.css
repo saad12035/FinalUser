@@ -1,0 +1,111 @@
+
+body{
+    overflow: auto;
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    color:black;
+}
+.body-form{
+    margin-top: 20%;
+}
+.container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100vh;
+    width:100%;
+    background-color: #967CA5;
+}
+
+.form-box{
+    width:auto;
+    height:450px;
+    background-color:#3F0858;
+    padding:20px;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-start;
+    opacity:0.5;
+    border-bottom-right-radius: 5%;
+    border-top-right-radius: 5%;
+}
+.header-form{
+    margin-bottom:15px;
+}
+button{
+    margin-top:40px;
+    margin-bottom:10px;
+}
+
+
+
+.image {
+    background-image: url("https://assets.materialup.com/uploads/897dce47-abf1-4013-b1cf-32352470830d/preview.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    border-bottom-left-radius: 5%;
+    border-top-left-radius: 5%;
+
+}
+
+.main-box{
+   padding-left: 100px;
+    padding-right: 100px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+}
+.input-group{
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    padding: 5px;
+}
+
+.form-control{
+    margin-top: 10px;
+    width: 300px;
+    height: 25px;
+}
+.loginButton{
+    width: 70px;
+    margin-top: 10px;
+    height: 30px;
+    font-weight: bold;
+}
+
+.hrefs{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.rememberMe{
+    padding-right: 50px;
+    margin-top: 15px;
+    color: white;
+}
+.forgotPassword{
+    color: white;
+}
+
+.loginBox{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.signUp{
+    padding-right: 50px;
+}
+
+.radio-but{
+margin-left: 30%;
+    color: white;
+}
+
+
+

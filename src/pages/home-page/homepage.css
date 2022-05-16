@@ -1,0 +1,492 @@
+.head h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+.head h2 {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600;
+
+}
+
+.hero-banner {
+    background-color: white;
+    padding-top: 10%;
+}
+
+.hero-banner h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #3F0858;
+}
+
+.hero-banner h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    background-color: #C0843D;
+    color: white;
+    text-align: center;
+    width: 40%;
+    height: 15%;
+}
+
+
+.hero-image {
+    margin-top: -2%;
+
+}
+
+.promotion {
+    padding-top: 4%;
+    padding-bottom: 4%;
+    background-color: #3F0858;
+}
+
+.promotion h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+.promotion h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    background-color: #C0843D;
+    color: white;
+    text-align: center;
+    width: 40%;
+    height: 80%;
+}
+
+.text-sections {
+    padding-top: 10%;
+    background-color: white;
+}
+
+.text-sections h1 {
+    font-size: 3rem;
+    color: #3F0858;
+    font-weight: bold;
+}
+
+.text-sections h2 {
+    font-size: 1.5rem;
+    color: #9F83AB;
+    font-weight: 600;
+    text-align: justify;
+}
+
+
+.text-sections h3 {
+    font-size: 3rem;
+    color: #3F0858;
+    font-weight: bold;
+    text-align: right;
+}
+
+.ellipse-image1 {
+    margin-top: -10%;
+    border-radius: 80%;
+    width: 60%;
+    height: 60%;
+}
+
+.ellipse-image2 {
+    margin-left: 120%;
+    margin-top: -60%;
+    border-radius: 80%;
+    width: 80%;
+    height: 80%;
+}
+
+
+.counsellors {
+    padding-top: 5%;
+    background-color: #3F0858;
+    text-align: center;
+    padding-bottom: 5%;
+}
+
+.counsellors h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+
+.counsellor-image1 {
+    margin-top: 20%;
+    border-radius: 80%;
+    width: 65%;
+    height: 65%;
+    z-index: 1;
+    position: relative;
+}
+
+.counsellor-ellipse {
+    margin-top: -95%;
+    z-index: 3;
+}
+
+
+.counsellor-name h1 {
+    margin-top: 10%;
+    font-size: 2rem;
+    line-height: 1.5%;
+}
+
+
+.counsellor-name h2 {
+    color: white;
+    font-size: 1.5rem;
+}
+
+.testimonials h4 {
+    text-align: center;
+    font-size: 3rem;
+    color: #3F0858;
+    font-weight: bold;
+    padding-bottom: 7%;
+}
+
+.testimonials {
+    padding-top: 5%;
+    background-color: white;
+}
+
+
+.testimonials-image1 {
+    margin-left: 2%;
+    margin-top: -85%;
+    width: 70%;
+    height: 65%;
+}
+
+
+.ellipse-testimonials-image {
+    width: 90%;
+}
+
+
+.testimonials h1 {
+    text-align: left;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #3F0858;
+}
+
+
+.testimonials h3 {
+    margin-top: -5%;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #3F0858;
+}
+
+.testimonials h2 {
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #3F0858;
+}
+
+
+.statistics {
+    padding-top: 5%;
+    background-color: white;
+}
+
+.statistics h1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    color: #C0843D;
+    margin-bottom: 8%;
+}
+
+
+.statistics-2 {
+    padding-top: 8%;
+    background-color: #C0843D;
+    padding-bottom: 4%;
+}
+
+.statistics-2 h2 {
+    text-align: center;
+    font-size: 4rem;
+    color: white;
+    font-weight: bold;
+    line-height: 0.5;
+}
+
+.statistics-2 h3 {
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+    font-weight: 300;
+}
+
+
+.promotion-2 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+.promotion-2 h1 {
+    font-size: 3rem;
+    text-align: center;
+    color: #C0843D;
+    font-weight: bold;
+    margin-bottom: 5%;
+}
+
+
+.promotion-2 h2 {
+    font-size: 2rem;
+    font-weight: 500;
+    border: 3px solid #C0843D;
+    color: #C0843D;
+    text-align: center;
+    width: 40%;
+    height: 85%;
+}
+
+
+.footer-site {
+    padding-top: 5%;
+}
+
+.footer-site h1 {
+    font-size: 3rem;
+    color: white;
+    font-weight: bold;
+}
+
+
+.footer-site h2 {
+    font-size: 1.2rem;
+    color: white;
+    font-weight: 300;
+}
+
+
+@media only screen and (max-width: 992px) {
+    .counsellor-image1 {
+        margin-top: 20%;
+        border-radius: 80%;
+        width: 65%;
+        height: 65%;
+        z-index: 1;
+        position: relative;
+    }
+
+    .counsellor-ellipse {
+        margin-top: -99%;
+        z-index: 3;
+    }
+
+
+    .testimonials-image1 {
+        margin-top: 4%;
+        margin-left: 3%;
+        width: 70%;
+        height: 65%;
+        border-radius: 4%;
+    }
+
+    .testimonials h1 {
+        margin-left: 10%;
+        font-size: 2rem;
+        font-weight: bold;
+        color: #3F0858;
+    }
+
+    .testimonials h2 {
+        margin-left: 15%;
+        font-size: 1rem;
+        font-weight: 600;
+        color: #3F0858;
+    }
+
+
+    .testimonials h3 {
+        margin-left: 23%;
+        margin-top: -5%;
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #3F0858;
+    }
+
+    .hero-image {
+        margin-left: 50%;
+        width: 60%;
+        height: 65%;
+    }
+
+    .hero-banner h2 {
+        font-size: 2rem;
+        font-weight: 500;
+        background-color: #C0843D;
+        color: white;
+        text-align: center;
+        width: 40%;
+        height: 25%;
+    }
+    .mobile-test{
+    marginLeft:60%;
+    }
+
+}
+
+@media only screen and (max-width: 668px) {
+    .drawer-text p {
+        text-align: center;
+        font-weight: 600;
+        font-size: 1.5rem;
+    }
+
+    .counsellor-image1 {
+        margin-top: 20%;
+        border-radius: 80%;
+        width: 65%;
+        height: 65%;
+        z-index: 1;
+        position: relative;
+    }
+
+    .counsellor-ellipse {
+        margin-top: -99%;
+
+        z-index: 3;
+    }
+
+
+    .testimonials-image1 {
+        margin-top: 4%;
+        margin-left: 18%;
+        width: 70%;
+        height: 65%;
+        border-radius: 4%;
+    }
+
+    .testimonials h1 {
+        margin-left: 18%;
+        font-size: 2rem;
+        font-weight: bold;
+        color: #3F0858;
+    }
+
+    .testimonials h2 {
+        margin-top: 10%;
+        margin-left: 22%;
+        font-size: 1rem;
+        font-weight: 600;
+        color: #3F0858;
+    }
+
+
+    .testimonials h3 {
+        margin-left: 35%;
+        margin-top: -5%;
+        font-size: 1.2rem;
+        font-weight: 600;
+        color: #3F0858;
+    }
+
+    .hero-image {
+margin-top: 10%;
+        margin-left: 10%;
+        width: 80%;
+        height: 65%;
+    }
+
+    .hero-banner h1 {
+        font-size: 1.5rem;
+        font-weight: bold;
+        color: #3F0858;
+    }
+
+    .hero-banner h2 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        background-color: #C0843D;
+        color: white;
+        text-align: center;
+        width: 50%;
+        height: 25%;
+    }
+    .promotion h1 {
+        color: white;
+        font-size: 2rem;
+        font-weight: bold;
+    }
+
+
+    .promotion h2 {
+        font-size: 1.5rem;
+        font-weight: 500;
+        background-color: #C0843D;
+        color: white;
+        text-align: center;
+        width: 60%;
+        height: 80%;
+    }
+    .ellipse-image1 {
+        margin-top: 0%;
+        border-radius: 80%;
+        width: 60%;
+        height: 60%;
+    }
+
+    .ellipse-image2 {
+        margin-left: 50%;
+        margin-top: -30%;
+        border-radius: 80%;
+        width: 40%;
+        height: 40%;
+    }
+
+    .text-sections h1 {
+        font-size: 2rem;
+        color: #3F0858;
+        font-weight: bold;
+    }
+
+    .text-sections h2 {
+        font-size: 1rem;
+        color: #9F83AB;
+        font-weight: 600;
+        text-align: justify;
+    }
+
+
+    .text-sections h3 {
+        font-size: 2rem;
+        color: #3F0858;
+        font-weight: bold;
+        text-align: right;
+    }
+    .promotion-2 h1 {
+        font-size: 2rem;
+        text-align: center;
+        color: #C0843D;
+        font-weight: bold;
+        margin-bottom: 5%;
+    }
+
+
+    .promotion-2 h2 {
+        font-size: 2rem;
+        font-weight: 500;
+        border: 3px solid #C0843D;
+        color: #C0843D;
+        text-align: center;
+        width: 80%;
+        height: 75%;
+    }
+
+}

@@ -1,0 +1,32 @@
+.hero-text-counsellor{
+    margin-top: 8%;
+}
+
+.hero-text-counsellor h1{
+    font-weight: bold;
+    color: black;
+    font-size: 3rem;
+}
+
+.hero-image-counsellor{
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    border: 2px solid black;
+    border-radius: 2%;
+    width: 400px;
+    height: 400px;
+   margin-left: 30%;
+    margin-top: 25%;
+}
+
+
+.hero-text-counsellor{
+    border-radius: 3%;
+    padding: 10%;
+    background-color: whitesmoke;
+}
+
+.hero-banner-counsellor{
+    background-color: whitesmoke;
+margin-top: -2%;
+    margin-bottom: -12%;
+}

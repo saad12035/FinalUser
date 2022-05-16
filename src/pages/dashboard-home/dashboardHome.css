@@ -1,0 +1,51 @@
+.ant-layout-side{
+    height: 1000px!important;
+}
+
+.image-style{
+    width: 200px;
+    border-radius: 50%;
+    margin-top: 10%;
+}
+
+.counsellor-name2{
+    padding: 10px;
+    margin-top: 10%;
+    background-color: white;
+    border-radius: 4%;
+
+}
+
+.counsellor-name2 h1{
+    font-weight: bold;
+    color: #C0843D;
+    font-size: 3rem;
+}
+
+.counsellor-name2 h2{
+    font-weight: 400;
+    color: #C0843D;
+    font-size: 1.5rem;
+}
+
+.site-layout-background{
+    background-color: whitesmoke;
+}
+.ant-layout-sider-children{
+    background-color: #C0843D!important;
+}
+
+
+.ant-layout-sider-trigger{
+    background-color: orange!important;
+}
+
+.appointment {
+    margin-top: 5%;
+   color: #C0843D;
+    font-size: 3rem;
+    margin-bottom: -50px;
+    margin-left: 1%;
+}
+
+

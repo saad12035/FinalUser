@@ -1,0 +1,52 @@
+.hero-banner-university{
+    background-image:linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("../../images/Islamabad-COMSATS-New-Library-MAY-2012-01.jpg");
+    background-repeat: no-repeat;
+    background-position-y: center;
+    background-size: cover;
+    padding: 20%;
+
+}
+.premeeting-screen {
+    flex-direction: row;
+    height: 1800px;
+}
+.mini-cards{
+    margin-top: -4%;
+
+}
+
+#jitsiMeeting-0{
+    height: 500px;
+}
+
+
+.mini-cards h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 1.5rem;
+    color: white;
+}
+
+
+.count-up{
+    margin-left: 33%;
+    color: white;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.information{
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+.information h1{
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.solid{
+    margin-left: 0%;
+    width: 70%;
+   border-top: 2px solid black;
+}
